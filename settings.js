@@ -1,5 +1,5 @@
 
-export const API_URL = "https://kinoxpbackendg5.azurewebsites.net/api"
+export const API_URL = "https://exam-backend-kino.azurewebsites.net/api"
 //export const API_URL = "http://localhost:8080/api"
 
 
